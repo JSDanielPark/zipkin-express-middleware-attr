@@ -7,7 +7,12 @@
     "email": "wndtn853@gmail.com",
     "url": "http://linkedin.com/in/jsdanielpark"
   },
-  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JSDanielPark/zipkin-express-middleware-attr.git"
+  },
+  "license": "UNLICENSED",
+  "main": "src/index.js",
   "dependencies": {
     "zipkin": "^0.12.0",
     "zipkin-context-cls": "^0.11.0",
